@@ -1,0 +1,32 @@
+{
+  "name": "react-handlers",
+  "version": "1.0.0",
+  "description": "Call a list of react event handlers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/altmind/react-handlers.git"
+  },
+  "keywords": [
+    "react",
+    "event",
+    "events",
+    "handler",
+    "handlers",
+    "list",
+    "util",
+    "utility"
+  ],
+  "author": "Andrew Gurinovich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/altmind/react-handlers/issues"
+  },
+  "homepage": "https://github.com/altmind/react-handlers#readme",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
